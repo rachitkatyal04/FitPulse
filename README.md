@@ -4,6 +4,22 @@ FitPulse is a modern fitness tracking app built with React Native and TypeScript
 
 ---
 
+## 📸 Glimpse of Focusly
+
+Here’s a sneak peek into what Focusly looks like in action:
+
+<img src="https://github.com/user-attachments/assets/3f0fe5a1-56b8-4ab5-8d82-9f2a3f597463" alt="FitPulse App Screenshot 1" width="200" height="400" />
+
+<img src="https://github.com/user-attachments/assets/5eee1e90-b9aa-4e8d-82e8-061d68e2172c" alt="FitPulse App Screenshot 2" width="200" height="400" />
+
+<img src="https://github.com/user-attachments/assets/1ff4c0e5-f7e4-4113-b2b5-cd67643755d4" alt="FitPulse App Screenshot 3" width="200" height="400" />
+
+<img src="https://github.com/user-attachments/assets/ebc0cf71-452d-426b-952c-28b3fa3252e3" alt="FitPulse App Screenshot 3" width="200" height="400" />
+
+<img src="https://github.com/user-attachments/assets/30fc1022-2f86-4d46-baf7-ed147575a4bb" alt="FitPulse App Screenshot 3" width="200" height="400" />
+
+---
+
 ## 📁 File Structure
 
 ```
@@ -80,6 +96,10 @@ FitPulse/
    - Use Expo Go or an emulator to run the app on your device.
 
 ---
+
+## APK Link
+
+- Link: (https://expo.dev/accounts/rachitkatyal/projects/FitPulse/builds/2686a322-17fa-44f5-8d55-ec3c8f085e9f)
 
 ## 🛠️ Tech Stack
 
