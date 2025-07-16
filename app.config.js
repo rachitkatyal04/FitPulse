@@ -18,6 +18,7 @@ export default {
       supportsTablet: true,
     },
     android: {
+      package: "com.rachitkatyal.fitpulse",
       adaptiveIcon: {
         foregroundImage: "./assets/adaptive-icon.png",
         backgroundColor: "#ffffff",
@@ -34,6 +35,9 @@ export default {
       FIREBASE_MESSAGING_SENDER_ID: process.env.FIREBASE_MESSAGING_SENDER_ID,
       FIREBASE_APP_ID: process.env.FIREBASE_APP_ID,
       FIREBASE_MEASUREMENT_ID: process.env.FIREBASE_MEASUREMENT_ID,
+      eas: {
+        projectId: "f683cf16-a186-4099-ac15-50936bc1a378",
+      },
     },
   },
 };
