@@ -1,10 +1,10 @@
 # FitPulse
 
-FitPulse is a modern fitness tracking app built with React Native and TypeScript. It helps users track their workouts, view history, and get workout details, with a clean UI and voice feedback features.
+FitPulse is a modern fitness tracking app built with React Native(Expo) and TypeScript. It helps users track their workouts, view history, and get workout details, with a clean UI and voice feedback features.
 
 ---
 
-## 📸 Glimpse of Focusly
+## 📸 Glimpse of FitPulse
 
 Here’s a sneak peek into what Focusly looks like in action:
 
@@ -16,7 +16,6 @@ Here’s a sneak peek into what Focusly looks like in action:
 
 <img src="https://github.com/user-attachments/assets/ebc0cf71-452d-426b-952c-28b3fa3252e3" alt="FitPulse App Screenshot 3" width="200" height="400" />
 
-<img src="https://github.com/user-attachments/assets/30fc1022-2f86-4d46-baf7-ed147575a4bb" alt="FitPulse App Screenshot 3" width="200" height="400" />
 
 ---
 
@@ -99,7 +98,7 @@ FitPulse/
 
 ## APK Link
 
-- Link: (https://expo.dev/accounts/rachitkatyal/projects/FitPulse/builds/2686a322-17fa-44f5-8d55-ec3c8f085e9f)
+- Link: https://expo.dev/accounts/rachitkatyal/projects/FitPulse/builds/2686a322-17fa-44f5-8d55-ec3c8f085e9f
 
 ## 🛠️ Tech Stack
 
